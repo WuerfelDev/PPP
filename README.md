@@ -22,5 +22,5 @@ This is a watchapp and an Android app wich lets you do the PC's PowerPoint/Libre
 How it works
 ------------
 
-When first starting the android app, it downloads [`hid-gadget-test`](https://github.com/pelya/android-keyboard-gadget) and <i>installs</i> it like it is shown in their [readme.md](https://github.com/pelya/android-keyboard-gadget#scripting).
+When first starting the android app, it downloads [`hid-gadget-test`](https://github.com/pelya/android-keyboard-gadget) and <i>installs</i> it like it is shown [here](https://github.com/pelya/android-keyboard-gadget#scripting).
 The <b>Pebble watchapp</b> sends an integer (which represents the pressed button) via AppMessage to the Android app. This integer is assigned to a command. This either sends `right` or `left` through USB to the PC.
