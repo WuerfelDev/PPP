@@ -6,12 +6,13 @@ This is a watchapp and an Android app wich lets you do the PC's PowerPoint/Libre
 
 
 
-<br><br><br>
+<br>
 [→ DOWNLOAD THE APP](https://github.com/WuerfelDev/PPP/blob/master/android-debug.apk?raw=true)
 -------------------
 
-<br><br><br>
-
+<br>
+Pro & Contra
+------------
 
 <b>PRO</b>
 - Supported by every "presentation-device" that supports external USB keyboards and switches the pages with arrow keys
