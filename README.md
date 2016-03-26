@@ -1,12 +1,10 @@
 # PPP - PowerPoint Presenter
 "PowerPoint Presenter" app &amp; watchapp
-<br><br>
+<br>
 
 This is a watchapp and an Android app wich lets you do the PC's PowerPoint/LibreOffice/OpenOffice NEXT and BACK funtion.
 
 
-
-<br>
 [→ DOWNLOAD THE APP](https://github.com/WuerfelDev/PPP/blob/master/android-debug.apk?raw=true)
 -------------------
 
