@@ -1,10 +1,16 @@
 # PPP - PowerPoint Presenter
 "PowerPoint Presenter" app &amp; watchapp
-
+<br><br>
 
 This is a watchapp and an Android app wich lets you do the PC's PowerPoint/LibreOffice/OpenOffice NEXT and BACK funtion.
 
 
+
+<br><br><br>
+[→ DOWNLOAD THE APP](https://github.com/WuerfelDev/PPP/blob/master/android-debug.apk?raw=true)
+-------------------
+
+<br><br><br>
 
 
 <b>PRO</b>
@@ -26,6 +32,4 @@ When first starting the android app, it downloads [`hid-gadget-test`](https://gi
 The <b>Pebble watchapp</b> sends an integer (which represents the pressed button) via AppMessage to the Android app. This integer is assigned to a command. This either sends `right` or `left` through USB to the PC.
 
 
-<br><br><br>
-[→ DOWNLOAD THE APP](https://github.com/WuerfelDev/PPP/blob/master/android-debug.apk?raw=true)
--------------------
+
