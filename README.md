@@ -26,5 +26,6 @@ When first starting the android app, it downloads [`hid-gadget-test`](https://gi
 The <b>Pebble watchapp</b> sends an integer (which represents the pressed button) via AppMessage to the Android app. This integer is assigned to a command. This either sends `right` or `left` through USB to the PC.
 
 
+<br><br><br>
 [→ DOWNLOAD THE APP](https://github.com/WuerfelDev/PPP/blob/master/android-debug.apk?raw=true)
 -------------------
