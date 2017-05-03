@@ -2,6 +2,9 @@
 "PowerPoint Presenter" app &amp; watchapp
 <br>
 
+THIS CAN WORK, BUT IS VERY UNLIKELY TO. Interested? Let's revive this project :)
+
+
 This is a watchapp and an Android app which lets you do the PC's PowerPoint/LibreOffice/OpenOffice NEXT and BACK function.
 
 
